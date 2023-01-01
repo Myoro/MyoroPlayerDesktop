@@ -1,4 +1,4 @@
-# An MP3 player for Windows & Linux with YouTube to MP3
+# An MP3 player with YouTube to MP3
 
 ## Notes
 - Electron
